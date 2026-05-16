@@ -1,11 +1,10 @@
 # Yogur Maker API
 
 # Descripción
-Yogur Maker API es una aplicación desarrollada con Java y Spring Boot, hecha para gestionar la elaboración de yogur artesanal.
-El sistema permite administrar recetas, lotes de producción, monitorear la temperatura y controlar el proceso de fermentación.
+Yogur Maker API es una aplicación desarrollada con Java y Spring Boot, hecha para gestionar la elaboración de yogur
+El sistema permite administrar recetas, lotes, revisar la temperatura y ver el proceso de fermentación
 
 # Arquitectura
-El sistema sigue una arquitectura por capas que asegura escalabilidad, mantenibilidad y separación de responsabilidades:
 - Controller → Peticiones HTTP (API REST)
 - Service → Lógica
 - Exception → Manejo de errores
