@@ -70,7 +70,4 @@ spring.jpa.show-sql=true
 ```bash
 ./mvnw spring-boot:run
 ```
-O desde tu IDE:
-
-Ejecutar YogurMakerApplication.java
 
